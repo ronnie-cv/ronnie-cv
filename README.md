@@ -1,6 +1,6 @@
 # 🌟 Welcome to my GitHub! 
 
-![totoro](https://media.tenor.com/7KRmHg56k97AAAAi/totoro.gif)
+![totoro](https://media.tenor.com/ey19edbYNpUAAAAj/totoro.gif)
 
 I'm an undergraduate student at **UC San Diego** studying Economics and Cognitive Science, with a passion for public policy, data analysis, and research.
 
