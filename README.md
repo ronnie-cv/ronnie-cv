@@ -1,6 +1,7 @@
 # 🌟 Welcome to my GitHub! 
 
-<img src="https://media.tenor.com/7KRmHg56k97AAAAi/totoro.gif" alt="Totoro waving" width="200"/>
+<img src="https://media.tenor.com/7KRmHg56k97AAAAi/totoro.gif" alt="Totoro waving" width="400"/>
+
 
 I'm an undergraduate student at **UC San Diego** studying Economics and Cognitive Science, with a passion for public policy, data analysis, and research.
 
