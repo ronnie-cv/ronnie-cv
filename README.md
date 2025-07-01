@@ -1,16 +1,32 @@
-## Hi there 👋
+# 🌟 Welcome to my GitHub! 
 
-<!--
-**ronnie-cv/ronnie-cv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://media.giphy.com/media/yoJC2Olx0ekMy2nX7W/giphy.gif](https://tenor.com/view/totoro-gif-20576416" alt="totoro" width="150"/>
 
-Here are some ideas to get you started:
+I'm an undergraduate student at **UC San Diego** studying Economics and Cognitive Science, with a passion for public policy, data analysis, and research.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌱 About Me
+
+
+
+---
+
+## Projects & Research
+
+
+---
+
+## Skills
+
+---
+
+## 📫 Get in Touch
+
+- Email: 
+- LinkedIn: 
+- Portfolio: 
+
+---
+
+Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
