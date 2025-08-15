@@ -1,6 +1,6 @@
 # 🌟 Welcome to my GitHub! 
 
-I'm an undergraduate student at **UC San Diego** studying Economics and Cognitive Science, with a passion for public policy, data analysis, and research.
+I'm an undergraduate student at UC San Diego studying Economics and Cognitive Science, with a passion for public policy, data analysis, and research.
 
 ---
 
